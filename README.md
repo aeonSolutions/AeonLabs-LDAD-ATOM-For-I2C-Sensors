@@ -29,8 +29,8 @@ The price starts at 30eur plus postage fees.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_back.png)
 
 ________________________________________________________________________________________________________________
 
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 ## PCB Enclosure
 The enclosure,  a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure, for this PCB can be bought online on AliExpress.com
 
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/enclosure.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/enclosure.png)
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
