@@ -1,6 +1,8 @@
 # AeonLabs-LDAD-ATOM-For-I2C-Sensors
 This repo contains the KiCad files for the LDAD ATOM features 1 I2C sensor connection, has WIFI and BLE connectivity, externally powered 3.3V to 12V such as a USB plug.
 This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
+It can connect up to 8 I2C sensors.
+
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_LDAD_ATOM_For_I2C_Sensors.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/total?style=for-the-badge)
