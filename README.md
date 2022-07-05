@@ -10,6 +10,12 @@ It can connect up to 8 I2C sensors.
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/working_green.png)  revision 1.0 tested and working
+
+If you already tested this PCB send me a message. Thank you
+
+
 ## Revisions
 - revision 1.0
   
